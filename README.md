@@ -2,6 +2,16 @@
 
 Tools and notes for turning videos into short summaries.
 
-## Status
+## Categories
 
-Repo created. Pipeline, prompts, and sample outputs go here.
+- [AI](AI/)
+- [Code](Code/)
+- [Talks](Talks/)
+- [Article](Article/)
+
+## For agents
+
+- [CLAUDE.md](CLAUDE.md)
+- [AGENTS.md](AGENTS.md)
+- [docs/](docs/)
+- [memory/](memory/) — local experience log (`profile.md` + `memory/log/YYYY-MM.md`)
