@@ -7,3 +7,5 @@ Draft. Fill this in after the first few real videos.
 3. One-paragraph gist
 4. Bullet takeaways
 5. Quotes / timestamps worth keeping
+
+After a video is archived, the long-form writeup lives under `docs/videos/` (architecture + sequence diagrams), not here.
