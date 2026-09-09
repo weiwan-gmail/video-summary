@@ -14,6 +14,7 @@
 | --- | --- | --- |
 | [Anthropic：Loops & Graphs](videos/anthropic-loops-graphs.md) | [Mahax / 41 min](https://x.com/Mahaximus_/status/2092670041062035853) | harness 是 loop；差异化在 graph / strategy |
 | [GrokBot：约束与编排](videos/grokbot-workshop.md) | [0xCodila / 57 min](https://x.com/0xCodila/status/2092331579527803215) | 硬 CI 吸收 agent 的痛；每个 agent 像一个人 |
-| [对照](compare.md) | 两场一起看 | 一层把 loop 跑稳，一层把仓库喂到能放手 |
+| [Google：ADK / GraphRAG](videos/google-graph-engineering.md) | [Anatoli share / 60 min](https://x.com/AnatoliKopadze/status/2097380989538591155) | 工作流图 + Spanner GraphRAG 实验；推文口号≠口播 |
+| [对照](compare.md) | 对着看 | runtime / 仓库约束是一条链；graph 这个词另有三层，不要硬接成三部曲 |
 
 行级 ASR 仍在 `AI/2026/`：`*-transcript.md` + `.summary.md`。这里是二次拆解，末尾再贴一份按内容分段的全文。
