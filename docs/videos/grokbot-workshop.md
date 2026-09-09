@@ -173,7 +173,7 @@ sequenceDiagram
 
 按内容分段；每段前是该段起始时间戳。全文保留，不删减。
 
-ASR 原文（Whisper 行级时间戳）仍以 [transcript](../../AI/2026/2026-08-25-lauren-tan-grokbot-workshop-transcript.md) 为准；Tweet/metadata 不收录。
+阅读用全文与 [transcript](../../AI/2026/2026-08-25-lauren-tan-grokbot-workshop-transcript.md) 同步（按内容分段）；Tweet/metadata 不收录。
 
 ### [00:00] 串入：不要把思考外包
 

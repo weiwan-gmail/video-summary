@@ -1,7 +1,7 @@
 # Notes — Google graph engineering / GraphRAG ADK lab (Anatoli share)
 
 - Source: https://x.com/AnatoliKopadze/status/2097380989538591155
-- Original: [AI-2026-09-08-google-graph-engineering-transcript.md](AI-2026-09-08-google-graph-engineering-transcript.md)
+- Original: [2026-09-08-google-graph-engineering-transcript.md](2026-09-08-google-graph-engineering-transcript.md)
 - Tweet author: Anatoli Kopadze (promoter only; not a speaker on the recording)
 - Speakers on video (from ASR): Annie (Google DevRel, lab host); Tilda (opening Q&A); unnamed Google instructor in the conceptual intro
 

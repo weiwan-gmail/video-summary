@@ -173,7 +173,7 @@ Whisper 转写。专有名词偶发漂移。架构判断以 21:16–23:25 和 10
 
 按内容分段；每段前是该段起始时间戳。全文保留，不删减。
 
-ASR 原文（Whisper 行级时间戳）仍以 [transcript](../../AI/2026/2026-08-26-anthropic-loops-graphs-transcript.md) 为准；Tweet/metadata 不收录。
+阅读用全文与 [transcript](../../AI/2026/2026-08-26-anthropic-loops-graphs-transcript.md) 同步（按内容分段）；Tweet/metadata 不收录。
 
 ### [00:00] 片子中段切进：恢复 / 安全 / 合规
 
