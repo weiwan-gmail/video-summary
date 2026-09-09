@@ -8,7 +8,8 @@ Tools and notes for turning videos into short summaries.
 
 - [Anthropic：Loops & Graphs](docs/videos/anthropic-loops-graphs.md)
 - [GrokBot：约束与编排](docs/videos/grokbot-workshop.md)
-- [两场对照](docs/compare.md)
+- [Google：ADK / GraphRAG](docs/videos/google-graph-engineering.md)
+- [对照](docs/compare.md)
 
 ## Categories
 
