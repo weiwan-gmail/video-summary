@@ -178,7 +178,7 @@ Anatoli 文章里的 diamond / fake-edge / checker / anchors，是 2026-07-24 �
 
 按内容分段；每段前是该段起始时间戳。全文保留，不删减。
 
-ASR 原文（Whisper 行级时间戳）仍以 [transcript](../../AI/2026/2026-09-08-google-graph-engineering-transcript.md) 为准；Tweet/metadata 不收录。
+阅读用全文与 [transcript](../../AI/2026/2026-09-08-google-graph-engineering-transcript.md) 同步（按内容分段）；Tweet/metadata 不收录。
 
 ### [00:00] Harness / loop / graph 词汇
 

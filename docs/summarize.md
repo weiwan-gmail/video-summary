@@ -10,11 +10,11 @@ Draft. Fill this in after the first few real videos.
 
 After a video is archived:
 
-- Canonical Whisper transcript stays under `AI/YYYY/` (`*-transcript.md` + `.summary.md`). Do not rewrite it when building the handbook.
+- Canonical **reading transcript** lives under `AI/YYYY/` (`*-transcript.md` + sibling `.summary.md`). Typeset it like the cleaned handbook `## 全文原文`: content-segmented major sections, a start timestamp before each, readable paragraphs inside, full spoken text retained. Do **not** publish Whisper crumb lines (`[mm:ss-mm:ss]` every few seconds) as the archived transcript.
 - The long-form handbook lives under `docs/videos/`. Layout is fixed:
 
   **Front:** charts, architecture, overview, time anchors (Mermaid + tables).
 
-  **Back:** `## 全文原文` — full original transcript, segmented by content (topic shifts / 时间锚), not by every Whisper crumb. Each major section starts with that block’s first timestamp (`[MM:SS]` or `[H:MM:SS]`). Merge consecutive crumbs into readable paragraphs. Keep every spoken word; do not invent dialogue. Keep the top-of-page link to the `AI/YYYY/` ASR file.
+  **Back:** `## 全文原文` — same segmentation rules as `AI/YYYY/*-transcript.md` (topic shifts / 时间锚, not every Whisper crumb). Each major section starts with that block’s first timestamp (`[MM:SS]` or `[H:MM:SS]`). Merge consecutive crumbs into readable paragraphs (大小段落). Keep every spoken word; do not invent dialogue. Keep the top-of-page link to the `AI/YYYY/` file. Prefer one source of truth: the AI file is the canonical reading transcript; the handbook appendix is an in-page copy synced to it.
 
 See [README.md](README.md) for the page index.
